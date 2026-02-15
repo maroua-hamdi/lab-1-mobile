@@ -15,6 +15,7 @@ LAB 1 - Configuration Mobexler & Android
    Vérification des interfaces réseau
 
  ![WhatsApp Image 2026-02-15 at 21 30 16](https://github.com/user-attachments/assets/0cf97103-531e-4135-9f84-390f2f21e98f)
+ 
  ![WhatsApp Image 2026-02-15 at 21 31 33](https://github.com/user-attachments/assets/5258da53-3848-4579-a527-3e908b7a1c19)
       
 Étape 3 : Vérification de la connectivité Internet
@@ -50,7 +51,9 @@ LAB 1 - Configuration Mobexler & Android
  Après activation du mode développeur et du débogage USB sur le téléphone, nous avons connecté l’appareil à la machine virtuelle.
 
  ![WhatsApp Image 2026-02-15 at 22 05 13](https://github.com/user-attachments/assets/7d9e2cef-a560-4c5e-b34f-3287d54a24f4)
+
  ![WhatsApp Image 2026-02-15 at 22 26 24](https://github.com/user-attachments/assets/2255bf83-69c9-4024-995a-0cc98cb15d70)
+ 
  ![WhatsApp Image 2026-02-15 at 22 12 51](https://github.com/user-attachments/assets/83aa4efc-9dc9-4af1-a964-7cdd75eb2327)
 
    La commande adb devices confirme que le téléphone Android est correctement connecté à la machine virtuelle, avec le statut "device", indiquant une connexion ADB fonctionnelle.
